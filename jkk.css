@@ -1,0 +1,3 @@
+<style> body { background-color: #000; color: #00ffff; font-family: 'Arial', sans-serif; } .title { text-align: center; font-size: 3.5em; padding-top: 20px; } .image-container { display: flex; justify-content: center; padding: 50px; } .image { max-width: 100%; height: auto; } </style> <div class="title">Jetflix</div> <div class="image-container"> <img class="image" src="https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg" alt="Netflix Logo"> </div>
+This webpage will have a black background with blue text. The title "Jetflix" will be displayed at the center of the page with a larger font size. Below the title, the webpage will display a large version of the Netflix logo in a container that keeps it centered.
+
