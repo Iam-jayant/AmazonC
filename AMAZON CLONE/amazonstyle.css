@@ -146,7 +146,7 @@ span {
     background-size: cover;
     height: 600px;
     -webkit-mask-image: linear-gradient(black 30%, transparent 130%);
-        mask-image: linear-gradient(black 40%, transparent 105%);
+        mask-image: linear-gradient(black 40%, transparent 100%);
 }
 .carousel {
     overflow: hidden;
@@ -155,7 +155,7 @@ span {
   .carousel figure {
     position: relative;
     width: 600vw;
-    animation: 35s slider infinite;
+    animation: 25s slider infinite;
     display: table;
     margin-block-start: 0;
     margin-block-end: 0;
